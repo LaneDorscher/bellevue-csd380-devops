@@ -1,6 +1,6 @@
-# [COURSE CODE] - [COURSE NAME]
+# CSD380 - DEVOPS
 
-Coursework repository for **[COURSE CODE]: [COURSE NAME]** at Bellevue University.
+Coursework repository for **CSD380: DEVOPS** at Bellevue University.
 
 This repository contains course materials, module assignments, programming exercises, and projects completed throughout the course.
 
